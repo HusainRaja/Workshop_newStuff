@@ -1,0 +1,26 @@
+[{
+	"id": "8901324005820",
+	"item": "Apsara",
+	"description": "hello",
+	"price": 2000
+}, {
+	"id": "8901058143102",
+	"item": "KitKat",
+	"description": "Chocklet",
+	"price": 25
+}, {
+	"id": "8901138836504",
+	"item": "PureHands",
+	"description": "Himalaya Hand Sanitizer",
+	"price": 55
+}, {
+	"id": "8902519011459",
+	"item": "Classmate",
+	"description": "Exercise Book",
+	"price": 55
+}, {
+	"id": "20179484",
+	"item": "RFID Reader",
+	"description": "Reader with USB connection",
+	"price": 499
+}]
