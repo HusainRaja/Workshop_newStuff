@@ -1,0 +1,21 @@
+[
+	{
+		"name" : "Sahiti",
+		"pin" : "1210716235",
+		"branch": "it",
+		"year": "2016-2020"
+	},
+
+	{
+		"name" : "Vinay",
+		"pin" : "1210716249",
+		"branch": "it",
+		"year": "2016-2020"
+	},
+	{
+		"name" : "Husain",
+		"pin" : "1210715220",
+		"branch": "it",
+		"year": "2015-2019"
+	}
+]
